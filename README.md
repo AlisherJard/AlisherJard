@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome to My GitHub 👋
 
 As a passionate Data Analyst, my GitHub profile showcases a diverse portfolio of projects that highlight my expertise in data analysis, machine learning, statistical modeling and programming. 
 

@@ -6,4 +6,6 @@
 
 🤖 I invite you to explore my repositories and connect with me to discuss potential collaborations or opportunities in the field of data science.
 
+## 🛠️ Skills
 
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white

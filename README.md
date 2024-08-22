@@ -8,11 +8,11 @@
 
 ## 🛠️ Skills
 
-![SQL](https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=sqlite&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=for-the-badge&logo=ai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3A8EBA?style=for-the-badge&logo=sqlite&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge&logo=ai&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4584D3?style=for-the-badge&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachehive&logoColor=white)
 
 ## 🛠️ Skills

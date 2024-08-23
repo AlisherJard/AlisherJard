@@ -14,7 +14,7 @@
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4584D3?style=for-the-badge&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachehive&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFC107?style=for-the-badge&logo=powerbi&logoColor=white)
+![BI](https://img.shields.io/badge/Power%20BI-FFC107?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
 

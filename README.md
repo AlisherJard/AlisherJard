@@ -15,8 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-4584D3?style=for-the-badge&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apachehive&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFC107?style=for-the-badge&logo=powerbi&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 
